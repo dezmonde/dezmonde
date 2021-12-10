@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @dezmonde
 - 👀 I’m interested in mobile apps development.
-- 🌱 I’m currently learning Flutter/
+- 🌱 I’m currently learning Flutter.
 - 💞️ I’m looking to collaborate on open surce proects
 - 📫 How to reach me edmond@dezmonde.bf
 
